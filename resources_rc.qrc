@@ -1,0 +1,15 @@
+<RCC>
+  <qresource>
+    <file>icon/bg.png</file>
+    <file>icon/uparrows_hover.png</file>
+    <file>icon/downarrows_hover.png</file>
+    <file>icon/uparrows.png</file>
+    <file>icon/downarrows.png</file>
+    <file>icon/tab-active.png</file>
+    <file>icon/tab-inactive.png</file>
+    <file>icon/exit.png</file>
+    <file>icon/end.png</file>
+    <file>icon/stop.png</file>
+    <file>icon/bg.ico</file>
+  </qresource>
+</RCC>
